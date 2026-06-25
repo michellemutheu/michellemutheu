@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+SQL+Specialist;Turning+raw+data+into+clear+insights;PostgreSQL+%7C+Data+Storytelling;AI+Prompt+Engineering+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+SQL+Specialist;Turning+raw+data+into+clear+insights;PostgreSQL+%7C+Data+Storytelling;AI+Prompt+Engineering;Excel" alt="Typing SVG" />
 </p>
 
 <p align="center">
