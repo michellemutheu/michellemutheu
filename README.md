@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Data Analyst · PostgreSQL · SQL · Data Storytelling · AI Prompt Engineering
+  Data Analyst · PostgreSQL · SQL · Data Storytelling · Excel · AI Prompt Engineering 
 </h3>
 
 <p align="center">
@@ -16,13 +16,21 @@
 
 ---
 👩‍💻 About Me
+
 🔍 I'm a Data Analyst who turns messy data into meaningful stories
+
 🗄️ Specialised in PostgreSQL, SQL & Excel — from schema design and data analysis to advanced reporting
+
 📊 Passionate about data storytelling that drives real decisions
+
 🤖 Exploring AI Prompt Engineering to supercharge analytics workflows
+
 🌱 Currently deepening my skills in Excel, data visualisation & business intelligence
+
 💬 Ask me about SQL queries, Excel analysis, HR reporting, or how to frame a data problem
+
 📍 Based in Nairobi, Kenya
+
 ---
 
 ## 🛠️ Tech Stack & Tools
