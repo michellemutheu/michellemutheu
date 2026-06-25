@@ -106,10 +106,10 @@ Data Analysis & Storytelling
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/michellemutheu" target="_blank">
+  <a href="https://www.linkedin.com/in/michelle-mutheu-13a25a392?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:your.michellemutuku490@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/michellemutheu" target="_blank">
