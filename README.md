@@ -15,17 +15,14 @@
 </p>
 
 ---
-
-## 👩‍💻 About Me
-
-- 🔍 I'm a **Data Analyst** who turns messy data into meaningful stories
-- 🗄️ Specialised in **PostgreSQL & SQL** — from schema design to advanced reporting
-- 📊 Passionate about **data storytelling** that drives real decisions
-- 🤖 Exploring **AI Prompt Engineering** to supercharge analytics workflows
-- 🌱 Currently deepening my skills in **data visualisation & business intelligence**
-- 💬 Ask me about **SQL queries, HR reporting, or how to frame a data problem**
-- 📍 Based in **Nairobi, Kenya**
-
+👩‍💻 About Me
+🔍 I'm a Data Analyst who turns messy data into meaningful stories
+🗄️ Specialised in PostgreSQL, SQL & Excel — from schema design and data analysis to advanced reporting
+📊 Passionate about data storytelling that drives real decisions
+🤖 Exploring AI Prompt Engineering to supercharge analytics workflows
+🌱 Currently deepening my skills in Excel, data visualisation & business intelligence
+💬 Ask me about SQL queries, Excel analysis, HR reporting, or how to frame a data problem
+📍 Based in Nairobi, Kenya
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -41,6 +38,16 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+Excel Skills
+
+PivotTables & Pivot Charts
+Power Query
+Data Cleaning & Transformation
+Business Reporting
+Dashboard Development
+Lookup Functions (XLOOKUP, INDEX-MATCH)
+Data Analysis & Storytelling
 
 **AI & Productivity**
 
@@ -82,9 +89,9 @@
 
 ## 🌱 Currently Learning
 
-- 📈 Advanced data visualisation with **Power BI & Tableau**
-- 🐍 **Python for data analysis** (Pandas, NumPy)
-- 🤝 Open to **collaborating on data projects** and open-source analytics tools
+📈 Advanced data visualisation with Power BI & Tableau
+📊 Advanced Excel for Data Analysis, Reporting & Dashboards
+🤝 Open to collaborating on data projects and open-source analytics tools
 
 ---
 
