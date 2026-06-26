@@ -98,7 +98,9 @@ Data Analysis & Storytelling
 ## 🌱 Currently Learning
 
 📈 Advanced data visualisation with Power BI & Tableau
+
 📊 Advanced Excel for Data Analysis, Reporting & Dashboards
+
 🤝 Open to collaborating on data projects and open-source analytics tools
 
 ---
